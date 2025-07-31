@@ -47,5 +47,5 @@ This empowers decision-makers to **improve operational efficiency**, **reduce em
 
 \[Pradeep Chaure] – Data Analyst | Power BI Enthusiast
 
-**Dashboard Preview**: *(Insert your screenshot or GitHub link here)*
+**Dashboard Preview**: *(https://github.com/PradeepRChaure/Ship-Performance/blob/main/Screenshot%202025-07-31%20145435.png)
 
